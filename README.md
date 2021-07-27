@@ -1,4 +1,6 @@
-# Musical Scales
+# Generate Musical Scales
+
+![qutune-logo-2](https://user-images.githubusercontent.com/46610354/118358892-c9b94f80-b578-11eb-8e3b-2ffdb783e2c4.png)
 
 Retrieve a scale based on a given mode and starting note.
 Information about these scales can be found [on Wikipedia](https://en.wikipedia.org/wiki/List_of_musical_scales_and_modes).
